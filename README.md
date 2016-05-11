@@ -1,2 +1,3 @@
 # hello-world
 sample repositrory
+this is some sample text...
